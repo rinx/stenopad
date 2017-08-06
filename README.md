@@ -12,3 +12,7 @@ Paste this to http://www.keyboard-layout-editor.com/
 
 ```
 
+## TODO
+
+Make firmware source at http://kbfirmware.com/
+
